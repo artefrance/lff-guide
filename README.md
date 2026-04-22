@@ -1,2 +1,2 @@
 # lff-guide
-Looking for Fael - Guides (Part 1, 2 and 3)
+Looking for Fael - Guides (intro, part 1, part 2 and part 3)
